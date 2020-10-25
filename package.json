@@ -42,6 +42,7 @@
       "eslint:recommended",
       "@vue/typescript/recommended",
       "@vue/prettier",
+      "@vue/prettier/vue",
       "@vue/prettier/@typescript-eslint"
     ],
     "parserOptions": {

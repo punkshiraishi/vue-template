@@ -8,17 +8,17 @@ module.exports = {
     extend: {
       colors: {
         blue: {
-          default: 'blue'
+          default: "blue",
         },
         red: {
-          default: 'red'
+          default: "red",
         },
         green: {
-          default: 'green'
+          default: "green",
         },
-      }
-    }
+      },
+    },
   },
   variants: {},
-  plugins: []
-};
+  plugins: [],
+}

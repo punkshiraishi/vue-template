@@ -1,5 +1,5 @@
 <template>
-  <div class="w-10">
+  <div class="text-red">
     demo
   </div>
 </template>

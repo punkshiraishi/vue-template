@@ -22,6 +22,7 @@ module.exports = {
     "@typescript-eslint/no-use-before-define": IGNORE,
     "@typescript-eslint/no-inferrable-types": IGNORE,
     "@typescript-eslint/no-empty-interface": IGNORE,
+    "vue/html-self-closing": IGNORE,
     "prettier-vue/prettier": [
       "error",
       {
